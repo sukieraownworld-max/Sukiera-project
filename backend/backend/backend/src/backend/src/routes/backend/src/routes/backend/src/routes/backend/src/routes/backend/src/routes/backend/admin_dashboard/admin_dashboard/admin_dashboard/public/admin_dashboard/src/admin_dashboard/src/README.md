@@ -18,4 +18,4 @@ Complete on-demand service platform for electricians and plumbers.
 ### Local Development
 
 ```bash
-docker-compose up -d
+docker-compose up -
